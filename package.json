@@ -1,11 +1,12 @@
 {
-  "name": "testing-vgg-random-nma",
-  "version": "1.0.0",
+  "name": "nma-gen-package",
+  "version": "0.1.0",
   "description": "create random numbers",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "nma-okafor",
-  "license": "ISC"
+  "author": "Nma Okafor",
+  "license": "ISC",
+  "homepage": "https://github.com/nmaokafor/testing-random-package.git"
 }
